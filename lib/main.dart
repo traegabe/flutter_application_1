@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'CLIQUE NO BOTÃO NO CANTO INFERIOR \n Para acessar os livros disponíveis no catálogo! ',
+              'CLIQUE NO BOTÃO NO CANTO INFERIOR dd\n Para acessar os livros disponíveis no catálogo! ',
             ),
           ],
         ),
